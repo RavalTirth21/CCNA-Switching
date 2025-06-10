@@ -4,18 +4,18 @@ This switching practical demonstrating Layer 3 Switch Inter-VLAN Routing, DHCP C
 
 ---
 
-### 📊 Topology 
-
-![Topology](01-Topology.png)
-
----
-
 ### 🌟 Project Objectives
 
 - Enable Inter-VLAN Routing on a Layer 3 Switch
 - Assign IP addresses dynamically using DHCP for each VLAN
 - Secure access ports using Port Security with sticky MACs
 - Verify both intra-VLAN and inter-VLAN connectivity
+
+---
+
+### 📊 Topology 
+
+![Topology](01-Topology.png)
 
 ---
 
