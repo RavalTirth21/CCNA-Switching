@@ -10,6 +10,15 @@ This project demonstrates a Layer 2 and Layer 3 network implementation using:
 
 ---
 
+### 🌟 Project Objectives
+
+- Configure multiple physical links between switches to work as a single logical link.
+- Implement EtherChannel using LACP (channel-group commands).
+- Enable trunking over EtherChannel interfaces.
+- Set STP root bridge priority per VLAN for optimized path selection.
+
+---
+
 ## 🖧 Topology
 
 ![Topology](01-Topology.png)
@@ -169,8 +178,8 @@ PC4 <-> PC7</pre>
 Inter-VLAN Routing with EtherChannel and PVST+/
 
     ├── 01-Topology.png
-    ├── 02-Output.png
+    ├── 02-Inter-Vlan-Routing.png
+    ├── 03-Same-Vlan-Connectivity.png
     └── README.md
-
 
 
