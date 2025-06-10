@@ -1,4 +1,4 @@
-🔧  CCNA Switching Project: L3-SWITCH-VLAN-DHCP-PORT-SECURITY
+# 🔧  CCNA Switching Project: L3-SWITCH-VLAN-DHCP-PORT-SECURITY
 
 This switching practical demonstrating Layer 3 Switch Inter-VLAN Routing, DHCP Configuration, and Port Security implementation.
 
