@@ -1,10 +1,10 @@
-# 📘 Inter-VLAN Routing using Router-on-a-Stick
+# 📘 CCNA Switching Project: Inter-VLAN Routing using Router-on-a-Stick
 
 This project demonstrates how to configure Inter-VLAN Routing using a **Router-on-a-Stick** setup with two switches, one router, and four PCs. Each VLAN has its own subnet and uses router sub-interfaces to enable communication between VLANs.
 
 ---
 
-## 🖥️ Topology Diagram
+## 🖥️ Topolog
 
 ![Topology](01-Topology.png)
 
